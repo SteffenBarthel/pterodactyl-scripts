@@ -6,5 +6,7 @@
             "email": "sb2014@hotmail.de"
         }
     ],
-    "require": {}
+    "require": {
+        "hcgcloud/pterodactyl-sdk": "^1.0"
+    }
 }
